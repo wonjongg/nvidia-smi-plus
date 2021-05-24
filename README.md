@@ -12,11 +12,12 @@ When checking process information, you can get
 
 and copy nvidia-smi-plus.py into any directory you want. (recommend $HOME directory)
 
+Then,
 `chmod +x nvidia-smi-plus.py`
 
 It will make the file executable.
 
-Add alias into your `~/.zshrc` or `~/.bashrc`
+Add an alias into your `~/.zshrc` or `~/.bashrc`
 
 `alias nvidia-smi=$YOUR_DIRECTORY/nvidai-smi-plus.py`
 
@@ -35,7 +36,7 @@ Just run the following command:
 nvidia-smi
 ```
 
-:blush:
+:blush::blush::blush:
 
 # Screenshot
 ![Screenshot](screen.png)
