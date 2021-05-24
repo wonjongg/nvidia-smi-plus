@@ -42,4 +42,4 @@ nvidia-smi
 ![Screenshot](screen.png)
 
 # Acknowledgments
-This repo is highly dependent on https://github.com/peci1/nvidia-htop. Thanks for his nice work!
+This repo highly depends on https://github.com/peci1/nvidia-htop. Thanks for his nice work!
