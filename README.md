@@ -31,7 +31,9 @@ If you want output with commandline length,
 # Usage
 Just run the following command:
 
-> nvidia-smi
+```bash
+nvidia-smi
+```
 
 :blush:
 
