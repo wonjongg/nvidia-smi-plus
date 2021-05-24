@@ -29,7 +29,7 @@ If you want colored output,
 
 `alias nvidia-smi='$YOUR_DIRECTORY/nvidia-smi-plus.py -c'`
 
-If you want output with commandline length,
+If you want an output with commandline length,
 
 `alias nvidia-smi='$YOUR_DIRECTORY/nvidia-smi-plus.py -l'`
 
