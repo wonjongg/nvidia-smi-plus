@@ -33,6 +33,8 @@ If you want output with commandline length,
 
 `alias nvidia-smi='$YOUR_DIRECTORY/nvidia-smi-plus.py -l'`
 
+Apply your updated file,
+
 ```bash
 source ~/.zshrc # or
 source ~/.bashrc
