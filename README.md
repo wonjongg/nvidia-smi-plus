@@ -29,7 +29,7 @@ If you want output with commandline length,
 `alias nvidia-smi=$YOUR_DIRECTORY/nvidai-smi-plus.py -l`
 
 # Usage
-Just run
+Just run the following command:
 
 > nvidia-smi
 
