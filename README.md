@@ -3,8 +3,8 @@ A tool for enriching the output of nvidia-smi.
 
 # Additional features
 When checking process information, you can get
-- a *docker container name* instead of an username
-- an *execution command* instead of a process name
+- a **docker container name** instead of an username
+- an **execution command** instead of a process name
 - a colored output for better readability
 
 # Install
