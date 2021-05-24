@@ -8,6 +8,7 @@ When checking process information, you can get
 - a colored output for better readability
 
 **Notes:** why do you want to check docker container name instead of username?
+
 If nvidia-docker users do not specify their username when executing their docker containers, usernames of processes are always 'root' by default. So, the username information isn't informative. Instead, I visualize a nvidia-docker container name to check who is running a process.
 
 ## Install
