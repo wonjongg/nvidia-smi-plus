@@ -19,15 +19,15 @@ It will make the file executable.
 
 Add an alias into your `~/.zshrc` or `~/.bashrc`
 
-`alias nvidia-smi=$YOUR_DIRECTORY/nvidai-smi-plus.py`
+`alias nvidia-smi='$YOUR_DIRECTORY/nvidai-smi-plus.py'`
 
 If you want colored output,
 
-`alias nvidia-smi=$YOUR_DIRECTORY/nvidai-smi-plus.py -c`
+`alias nvidia-smi='$YOUR_DIRECTORY/nvidai-smi-plus.py -c'`
 
 If you want output with commandline length,
 
-`alias nvidia-smi=$YOUR_DIRECTORY/nvidai-smi-plus.py -l`
+`alias nvidia-smi='$YOUR_DIRECTORY/nvidai-smi-plus.py -l'`
 
 ## Usage
 Just run the following command:
